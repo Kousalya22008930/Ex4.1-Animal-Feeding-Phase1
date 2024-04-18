@@ -1,6 +1,6 @@
 # Ex4.1-Animal-Feeding-Phase1
 ## Aim:
-    To develop a animal feeding game-Phase-1 using unity.
+To develop a animal feeding game-Phase-1 using unity.
 
 ## Algorithm:
 ### Player Control:
